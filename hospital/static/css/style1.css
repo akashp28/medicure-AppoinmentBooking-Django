@@ -1,0 +1,16 @@
+li:hover {
+    background-color: black;
+    border-radius: 10px;
+}
+
+#index {
+
+    height: 90vh;
+}
+
+@media screen and (max-width:800px) {
+    .navbar {
+        padding-left: 0;
+
+    }
+}
